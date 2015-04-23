@@ -1,17 +1,19 @@
 # Awesome CSS
 A curated list of amazingly awesome CSS libraries.
 
-- [Animations](#animations)
-- [Frameworks](#frameworks)
-- [Icons](#icons)
-- [Preprocessors](#preprocessors)
-- [Resets](#resets)
+## Table of contents
+* [Awesome CSS](#awesome-css)
+  - [Awesome PHP](#awesome-php)
+  - [Animations](#animations)
+  - [Frameworks](#frameworks)
+  - [Icons](#icons)
+  - [Preprocessors](#preprocessors)
+  - [Resets](#resets)
 
 ## Animations
-Transitions and Animations libraries.
+Transitions and animations, CSS loaders libraries and related.
 * [Animate.css](http://daneden.github.io/animate.css/)
 * [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
-### Loaders
 * [Loaders.css](http://connoratherton.com/loaders)
 * [SpinKit](http://tobiasahlin.com/spinkit/)
 
@@ -26,6 +28,7 @@ CSS Frameworks, CSS toolkits and related.
 * [WinJS](https://github.com/winjs/winjs)
 
 ## Icons
+Icons font, CSS icons and related.
 * [FontAwesome](http://fontawesome.io/)
 * [Ionicicons](http://ionicons.com/)
 * [Octicons](https://octicons.github.com/)

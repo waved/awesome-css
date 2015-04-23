@@ -3,7 +3,7 @@ A curated list of amazingly awesome CSS libraries.
 
 ## Table of contents
 * [Awesome CSS](#awesome-css)
-  - [Awesome PHP](#awesome-php)
+  - Based on [Awesome PHP](https://github.com/ziadoz/awesome-php)
   - [Animations](#animations)
   - [Frameworks](#frameworks)
   - [Icons](#icons)
